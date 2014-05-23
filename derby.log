@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri May 23 14:15:35 CEST 2014:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instancia a816c00e-0146-2901-fff3-000000cf7748 
+en el directorio de base de datos E:\DAW\Programación\T07.- Utilización avanzada de clases\Ejercicios\GestorClaves\GestorClaves\gestor_claves  con el cargador de clases sun.misc.Launcher$AppClassLoader@733638d4
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_40-b43
+user.dir=E:\DAW\Programación\T07.- Utilización avanzada de clases\Ejercicios\GestorClaves\GestorClaves
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
